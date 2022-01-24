@@ -1,0 +1,13 @@
+name: ShinyApp-Muenster
+title: ShinyApp-Muenster
+username:
+account: verenadietrich
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5495925
+bundleId: 5501122
+url: https://verenadietrich.shinyapps.io/ShinyApp-Muenster/
+when: 1643014420.80872
+lastSyncTime: 1643014420.80872
+asMultiple: FALSE
+asStatic: FALSE
